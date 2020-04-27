@@ -1,0 +1,9 @@
+.page-layout {
+    display: flex;
+}
+.container-wrapper {
+    width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden;
+}

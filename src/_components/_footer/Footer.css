@@ -1,0 +1,17 @@
+.footer {
+    background-color: #fff;
+    border-top: 1px solid #dfeaee;
+    overflow: hidden;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.footer-align {
+    margin: 0px 16px !important;
+    justify-content: space-between;
+}
+.footer p{
+    margin-bottom: 0px;
+}
